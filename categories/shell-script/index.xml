@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shell-script on 赵津的笔记</title>
+    <link>http://localhost:1313/categories/shell-script/</link>
+    <description>Recent content in shell-script on 赵津的笔记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 15 Feb 2020 22:53:13 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/shell-script/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shell Script 基础学习</title>
+      <link>http://localhost:1313/post/linux/linux-netman-shell-script-base-note/</link>
+      <pubDate>Sat, 15 Feb 2020 22:53:13 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/linux/linux-netman-shell-script-base-note/</guid>
+      <description>&lt;p&gt;Shell Script 基础相关记录&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
